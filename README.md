@@ -6,3 +6,4 @@ The Question comes from a api , this api also includes answers
 API WEBSITE LINK : https://opentdb.com/api_config.php
 
 
+This game Live Preview :  https://aunshon.github.io/JS-Quiz-Game/

@@ -22,7 +22,7 @@ const showLoading = () => {
 
     let img = document.createElement('img');
     img.classList.add('aun', 'gifMargin');
-    img.src = "https://github.com/Aunshon/JS-Quiz-Game/blob/master/aun.gif";
+    img.src = "aun.gif";
     img.width = "100";
     mainApp.appendChild(img);
 }
